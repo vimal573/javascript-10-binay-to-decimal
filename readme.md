@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Binary to Decimal converter [Live Link](https://name-conversion-js.netlify.app/)
+## Binary to Decimal converter [Live Link](https://binary-to-decimal-convert.netlify.app/)
 
 - Skills Gained in this project
 
